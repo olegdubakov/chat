@@ -1,0 +1,15 @@
+serverCpp/serverCpp/Debug/
+serverCpp/Debug/
+clientCpp/Debug/clientCpp.exe
+clientCpp/Debug/
+clientCpp/clientCpp/Debug/clientCpp.tlog/clientCpp.lastbuildstate
+clientCpp/clientCpp/Debug/
+serverCpp/serverCpp/serverCpp.vcxproj.filters
+serverCpp/serverCpp.v12.suo
+serverCpp/serverCpp.sdf
+clientCpp/clientCpp.sdf
+clientCpp/clientCpp.v12.suo
+clientCpp/clientCpp/clientCpp.vcxproj.filters
+clientCpp/clientCpp/clientCpp.vcxproj.user
+serverCpp/serverCpp/serverCpp.vcxproj.user
+serverCpp/serverCpp/treading.cpp
